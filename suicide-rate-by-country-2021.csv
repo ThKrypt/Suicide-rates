@@ -1,0 +1,205 @@
+country;Total;Hombre;Mujer
+India;1333;157;1085
+China;917;1064;763
+United States;1525;2413;666
+Indonesia;164;221;105
+Pakistan;582;846;305
+Nigeria;427;722;156
+Brazil;778;1247;33
+Bangladesh;367;518;221
+Russia;241;4182;866
+Ethiopia;617;94;288
+Mexico;684;1151;238
+Japan;1747;252;1012
+Egypt;101;148;5
+Philippines;377;604;144
+DR Congo;812;1239;377
+Vietnam;801;1097;507
+Iran;434;646;216
+Turkey;384;602;165
+Germany;1231;189;577
+Thailand;12;201;444
+United Kingdom;847;1318;393
+Tanzania;566;89;259
+France;1372;2201;592
+South Africa;153;2555;546
+Italy;644;1037;272
+Kenya;682;1053;316
+Myanmar;357;606;126
+Colombia;674;1109;257
+South Korea;2581;3696;1458
+Sudan;428;541;311
+Uganda;584;979;201
+Spain;773;1186;378
+Algeria;276;36;19
+Iraq;441;655;212
+Argentina;1047;1729;399
+Afghanistan;36;416;301
+Yemen;356;463;246
+Canada;1251;1943;577
+Poland;1515;2727;379
+Morocco;368;428;307
+Angola;695;1128;287
+Ukraine;2317;414;743
+Uzbekistan;896;1229;565
+Malaysia;517;8;213
+Mozambique;928;1586;317
+Ghana;568;921;234
+Peru;29;435;143
+Saudi Arabia;787;1095;355
+Madagascar;631;905;364
+Ivory Coast;705;1152;228
+Nepal;1307;1826;837
+Cameroon;716;1135;297
+Venezuela;811;142;241
+Niger;355;46;252
+Australia;1286;198;608
+North Korea;1088;1225;952
+Syria;89;144;39
+Mali;409;524;296
+Burkina Faso;656;1043;293
+Taiwan;1604;219;1029
+Sri Lanka;1627;2645;678
+Malawi;831;1384;305
+Zambia;816;1342;299
+Kazakhstan;182;3096;619
+Chad;543;788;3
+Chile;1061;1778;366
+Romania;1076;1854;34
+Somalia;578;711;439
+Senegal;758;1187;325
+Guatemala;543;845;259
+Netherlands;1123;1524;728
+Ecuador;851;1353;354
+Cambodia;454;646;27
+Zimbabwe;1761;2657;932
+Guinea;502;689;326
+Benin;532;832;241
+Rwanda;736;1113;379
+Burundi;713;1094;33
+Bolivia;553;761;344
+Tunisia;306;441;173
+South Sudan;803;1219;384
+Haiti;718;1028;42
+Belgium;173;2549;936
+Jordan;107;16;46
+Dominican Republic;539;873;202
+United Arab Emirates;237;279;13
+Cuba;1583;2507;671
+Honduras;39;647;148
+Czech Republic;1256;2054;482
+Sweden;1232;1676;782
+Tajikistan;337;491;179
+Papua New Guinea;228;284;167
+Portugal;1162;1825;563
+Azerbaijan;25;391;108
+Greece;522;865;198
+Hungary;1691;2639;827
+Togo;788;1241;354
+Israel;515;836;197
+Austria;1434;2234;655
+Belarus;2044;3568;716
+Switzerland;1172;1743;603
+Sierra Leone;509;691;329
+Laos;523;758;285
+Turkmenistan;972;1457;465
+Libya;552;762;329
+Kyrgyzstan;925;1471;392
+Paraguay;58;863;291
+Nicaragua;572;891;26
+Bulgaria;133;2072;634
+Serbia;1591;2378;807
+El Salvador;832;1331;392
+Republic of the Congo;957;1447;472
+Denmark;1127;1626;633
+Singapore;775;1019;521
+Lebanon;94;118;69
+Finland;1567;2396;758
+Liberia;666;937;386
+Norway;1168;164;686
+Slovakia;1234;2131;379
+Palestine;78;124;31
+Central African Republic;1164;1872;483
+Oman;104;149;33
+Ireland;841;137;324
+New Zealand;1131;1697;567
+Mauritania;355;498;216
+Costa Rica;985;1737;283
+Kuwait;197;305;75
+Panama;528;882;17
+Croatia;1431;2231;676
+Georgia;864;1457;318
+Eritrea;966;1419;499
+Mongolia;1459;2568;377
+Uruguay;2131;3661;723
+Puerto Rico;71;1268;205
+Bosnia and Herzegovina;107;1741;429
+Qatar;381;508;77
+Moldova;1492;2648;441
+Namibia;1157;2003;361
+Armenia;553;886;244
+Lithuania;2791;4996;907
+Jamaica;143;244;44
+Albania;41;528;291
+Gambia;558;811;312
+Gabon;967;1672;312
+Botswana;972;1573;384
+Lesotho;2057;3255;927
+Guinea-Bissau;849;1274;444
+Slovenia;1712;2801;637
+Equatorial Guinea;689;1029;285
+Latvia;1942;3467;639
+North Macedonia;791;1108;464
+Bahrain;428;602;133
+Trinidad and Tobago;1382;2321;44
+Timor-Leste;408;562;249
+Estonia;1519;2566;583
+Cyprus;404;648;167
+Mauritius;1096;1801;409
+Eswatini;1842;3117;616
+Djibouti;563;767;325
+Fiji;889;1225;545
+Comoros;63;782;479
+Guyana;3126;5279;1031
+Solomon Islands;1827;2724;894
+Bhutan;575;757;379
+Luxembourg;902;1324;474
+Montenegro;1545;2377;733
+Suriname;236;3742;1013
+Malta;496;806;185
+Maldives;222;333;44
+Cape Verde;1506;2566;428
+Brunei;405;617;168
+Belize;509;888;134
+Bahamas;261;475;62
+Iceland;1249;1964;513
+Vanuatu;1631;2501;745
+Barbados;467;822;136
+Sao Tome and Principe;115;177;52
+Samoa;1218;1711;695
+Saint Lucia;677;1236;117
+Guam;1708;2913;471
+Kiribati;1729;3008;502
+Seychelles;577;992;113
+Grenada;463;732;18
+Micronesia;2017;3072;92
+Tonga;464;597;331
+Saint Vincent and the Grenadines;619;1119;97
+Antigua and Barbuda;138;25;3
+United States Virgin Islands;702;1276;16
+Andorra;789;1222;331
+Dominica;423;746;89
+Bermuda;399;706;111
+Greenland;5962;8696;294
+Saint Kitts and Nevis;285;496;74
+American Samoa;804;1197;393
+Northern Mariana Islands;1559;2466;555
+Monaco;1542;2133;984
+Marshall Islands;2004;2901;1065
+San Marino;759;1219;328
+Palau;1499;1712;1239
+Cook Islands;917;1439;395
+Nauru;2355;3511;1179
+Tuvalu;1649;2379;856
+Tokelau;1583;1954;1197
+Niue;1559;2062;1051
